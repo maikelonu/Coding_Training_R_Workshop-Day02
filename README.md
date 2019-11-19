@@ -100,4 +100,8 @@ install.packages("DeducerPlugInScaling")
 install.packages("DeducerSpatial")
 install.packages("DeducerText")
 install.packages("quantreg")
+install.packages("JGR")
+install.packages("rJava")
+install.packages("JavaGD")
+install.packages("iplots")
 
